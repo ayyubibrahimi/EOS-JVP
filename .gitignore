@@ -1,0 +1,6 @@
+*.csv
+*.env
+*.txt
+*.json
+**/.DS_Store
+*.pst
